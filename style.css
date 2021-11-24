@@ -1,13 +1,15 @@
 .button{
-  background-color: #000c2c;
-  color : white;
-  padding:20px;
-  font-size: 20px;
-  border:none;
-  transition:0.5s;
-}
-.button:hover{
-  background-color: white ;
-  color : #000c2c;
-  border:#000c2c; 
-}
+    background-color: #000c2c;
+    color : white;
+    padding:20px;
+    font-size: 20px;
+    border:none;
+    transition:0.5s;
+    font-family:courier;
+    font-weight:500;
+  }
+  .button:hover{
+    background-color: white ;
+    color : #000c2c;
+    border: #000c2c;
+  }
